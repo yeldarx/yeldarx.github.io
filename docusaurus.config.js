@@ -22,11 +22,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/yeldarx/yeldarx.github.io/tree/main/',
-        },
+        docs: false,
         blog: {
           showReadingTime: false,
           blogSidebarTitle: 'Барлық жазбалар',
@@ -66,12 +62,6 @@ const config = {
           src: 'img/yeldar-50px.png',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {to: '/blog', label: 'Блог', position: 'left'},
           {to: '/projects', label: 'Жобалар', position: 'left'},
           {to: '/contacts', label: 'Байланыс', position: 'left'},
