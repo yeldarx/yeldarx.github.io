@@ -28,7 +28,23 @@ const config = {
             'https://github.com/yeldarx/yeldarx.github.io/tree/main/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
+          blogSidebarTitle: 'Барлық жазбалар',
+          blogTitle: 'Жеке блог',
+          blogDescription: 'Елдар Құдайбергеновның жеке блогы',
+          postsPerPage: 'ALL',
+          editLocalizedFiles: true,
+          feedOptions: {
+            type: 'rss',
+            copyright: `Copyright © ${new Date().getFullYear()} <a href="https://yeldar.org/">Yeldar Kudaibergenov</a>.`,
+            createFeedItems: async (params) => {
+              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
+              return defaultCreateFeedItems({
+                blogPosts: blogPosts.filter((item, index) => index < 10),
+                ...rest,
+              });
+            },
+          },
           editUrl:
             'https://github.com/yeldarx/yeldarx.github.io/tree/main/',
         },
@@ -46,7 +62,7 @@ const config = {
       navbar: {
         title: 'Елдар Құдайбергенов',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Елдар Құдайбергенов',
           src: 'img/yeldar-50px.png',
         },
         items: [
