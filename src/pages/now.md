@@ -18,7 +18,13 @@ title: Қазір ⚡️
 
 ## Қазіргі білім алу барысы
 
-Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында, қосымша [Full Stack Open](https://fullstackopen.com/) деген курсты да қараймын. Күніне 3-4 сағат оқуға тырысамын.
+Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында. Қосымша келесі курстарды да қараймын:
+
+- [Full Stack Open](https://fullstackopen.com/);
+- [freeCodeCamp](https://freecodecamp.org/);
+- [English Communication for Tech Professionals](https://www.coursera.org/learn/english-communication-for-tech-professionals/).
+
+Күніне 3-4 сағат оқуға тырысамын.
 
 ---
 
