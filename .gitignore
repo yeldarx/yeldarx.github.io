@@ -3,6 +3,8 @@
 
 # Production
 /build
+/blog/_temp
+/docs/_temp
 
 # Generated files
 .docusaurus
