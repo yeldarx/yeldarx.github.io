@@ -15,10 +15,11 @@ title: Қазір ⚡️
 - [Қазақстандық подкастар](https://index.podcasting.center/episodes).
 - [Podcasting 2.0](https://podcastindex.org/podcast/920666) – Адам Карридің подкастиң туралы подкасты.
 - [codingPath additional content](https://coding.podcasting.center/) – жеке блогымдағы `codingPath` тегіне қатысты қосымша мазмұн.
+- [Darknet Diaries](https://darknetdiaries.com/) – True stories from the dark side of the Internet.
 
 ### Қазіргі білім алу барысы
 
-Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында (`Foundation, 43%`). Қосымша келесі курстарды да қараймын:
+Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында `Foundation, 43%`. Қосымша келесі курстарды да қараймын:
 
 - [Full Stack Open](https://fullstackopen.com/);
 - [freeCodeCamp](https://freecodecamp.org/);
