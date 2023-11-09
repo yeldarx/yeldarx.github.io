@@ -18,7 +18,7 @@ title: Қазір ⚡️
 
 ### Қазіргі білім алу барысы
 
-Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында. Қосымша келесі курстарды да қараймын:
+Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында (Foundation, 43%). Қосымша келесі курстарды да қараймын:
 
 - [Full Stack Open](https://fullstackopen.com/);
 - [freeCodeCamp](https://freecodecamp.org/);
