@@ -57,7 +57,7 @@ const config = {
         title: 'Елдар Құдайбергенов',
         logo: {
           alt: 'Елдар Құдайбергенов',
-          src: 'img/yeldar-50px.png',
+          src: 'img/yeldar.png',
         },
         items: [
           {to: '/blog', label: 'Блог', position: 'left'},
