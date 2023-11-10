@@ -64,6 +64,14 @@ const config = {
           {to: '/projects', label: 'Жобалар', position: 'left'},
           {to: '/contacts', label: 'Байланыс', position: 'left'},
           {to: '/now', label: 'Қазір ⚡️', position: 'left'},
+
+          {
+            href: 'https://github.com/yeldarx',
+            label: 'GitHub',
+            position: 'right',
+          },
+
+          
         ],
       },
       footer: {
