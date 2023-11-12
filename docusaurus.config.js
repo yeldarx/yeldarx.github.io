@@ -59,6 +59,7 @@ const config = {
           alt: 'Елдар Құдайбергенов',
           src: 'img/yeldar.png',
         },
+        hideOnScroll: true,
         items: [
           {to: '/blog', label: 'Блог', position: 'left'},
           {to: '/projects', label: 'Жобалар', position: 'left'},
