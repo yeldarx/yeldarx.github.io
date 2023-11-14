@@ -41,6 +41,9 @@ const config = {
               });
             },
           },
+          editUrl:
+            'https://github.com/yeldarx/yeldarx.github.io/tree/main/',
+        
         },
         theme: {
           customCss: './src/css/custom.css',
