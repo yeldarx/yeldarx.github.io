@@ -7,6 +7,9 @@
 - [Full Stack Open](https://fullstackopen.com/);
 - [Semantic Versioning](https://semver.org/);
 - [Pro Git](https://git-scm.com/book/en/v2);
+- [Don't ask to ask, just ask](https://dontasktoask.com/);
+- [The XY Problem](https://xyproblem.info/);
+- [no hello](https://nohello.net/en/);
 - ...
 
 Осы идеяға байланысты қосар ойыңыз, не ұсыныстарыңыз болса [хабарласыңыз](/contacts).
