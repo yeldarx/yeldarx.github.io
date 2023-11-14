@@ -10,6 +10,8 @@
 - [Don't ask to ask, just ask](https://dontasktoask.com/);
 - [The XY Problem](https://xyproblem.info/);
 - [no hello](https://nohello.net/en/);
+- [freeCodeCamp](https://www.freecodecamp.org);
+- [Learn X in Y minutes](https://learnxinyminutes.com/)
 - ...
 
 Осы идеяға байланысты қосар ойыңыз, не ұсыныстарыңыз болса [хабарласыңыз](/contacts).
