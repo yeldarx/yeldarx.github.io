@@ -19,13 +19,7 @@ title: Қазір ⚡️
 
 ### Қазіргі білім алу барысы
 
-Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында `Foundation, 52%`. Қосымша келесі курстарды да қараймын:
-
-- [Full Stack Open](https://fullstackopen.com/);
-- [freeCodeCamp](https://freecodecamp.org/);
-- [English Communication for Tech Professionals](https://www.coursera.org/learn/english-communication-for-tech-professionals/).
-
-Күніне 3-4 сағат оқуға тырысамын.
+Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында `Foundation, 52%` және Coursera-дағы "[English Communication for Tech Professionals](https://www.coursera.org/learn/english-communication-for-tech-professionals/)" деген курсын қараймын.
 
 ### Қазір қандай кітап оқып жүрмін?
 
