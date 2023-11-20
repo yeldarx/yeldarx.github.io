@@ -2,7 +2,6 @@
 title: codingPath - 2
 authors: yeldar
 tags: [codingPath, The Odin Project]
-draft: true
 ---
 
 ## 13-20.11.2023
