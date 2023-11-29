@@ -11,7 +11,8 @@
 - [The XY Problem](https://xyproblem.info/);
 - [no hello](https://nohello.net/en/);
 - [freeCodeCamp](https://www.freecodecamp.org);
-- [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [Learn X in Y minutes](https://learnxinyminutes.com/);
+- [Learn CSS Layout](https://learnlayout.com/);
 - ...
 
 Осы идеяға байланысты қосар ойыңыз, не ұсыныстарыңыз болса [хабарласыңыз](/contacts).
