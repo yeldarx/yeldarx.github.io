@@ -9,3 +9,5 @@ tags: [codingPath, The Odin Project, Full Stack Open]
 Бұл жазбалар әзірге бір күнделікке ұқсайды. Бірақ қандай болса да, бірдеңеден бастау керек. Не істесем де кодиңді үйренуді тоқтатпасам болды.
 
 Мен қазір The Odin Project-тің [кіріспе](https://www.theodinproject.com/paths/foundations/courses/foundations) курсын өтіп жатырмын. Осы курсты бітірген соң [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) жолына шығамын деп отырмын. Одан кейін барып [Full Stack Open](https://fullstackopen.com)-ді қолға аламын.
+
+Осы тегке қатысты қосымша контент жарияланатын [codingPath additional content](https://k.yeldar.org/cp) деген подкаст бастап қойдым.
