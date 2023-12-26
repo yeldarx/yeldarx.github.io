@@ -65,7 +65,6 @@ const config = {
         hideOnScroll: true,
         items: [
           {to: '/blog', label: 'Блог', position: 'left'},
-          {to: '/projects', label: 'Жобалар', position: 'left'},
           {to: '/contacts', label: 'Байланыс', position: 'left'},
           {to: '/now', label: 'Қазір ⚡️', position: 'left'},
 
