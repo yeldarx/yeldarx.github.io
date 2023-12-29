@@ -79,7 +79,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Yeldar Kudaiberegnov.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Yeldar Kudaibergеnov.`,
       },
       prism: {
         theme: prismThemes.github,
