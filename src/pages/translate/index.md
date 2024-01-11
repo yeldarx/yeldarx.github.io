@@ -13,6 +13,11 @@
 - [freeCodeCamp](https://www.freecodecamp.org);
 - [Learn X in Y minutes](https://learnxinyminutes.com/);
 - [Learn CSS Layout](https://learnlayout.com/);
+- [Interneting Is Hard ](https://internetingishard.netlify.app/);
+- [IndieWeb](https://indieweb.org/);
+- [CS50](https://www.edx.org/cs50) видеолары;
+- [Agile Manifesto](http://agilemanifesto.org/);
+- [Conventional Commits](https://www.conventionalcommits.org);
 - ...
 
 Осы идеяға байланысты қосар ойыңыз, не ұсыныстарыңыз болса [хабарласыңыз](/contacts).
