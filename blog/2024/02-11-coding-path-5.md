@@ -36,7 +36,7 @@ The Odin Project-тің HTML және CSS (Flexbox) бөлімінің жоба�
 - [Dev Job Simulator](https://yep.so/p/jobsimulatordev);
 - [Select Star SQL](https://selectstarsql.com);
 - DSA [1](https://www.geeksforgeeks.org/data-structures/), [2](https://www.geeksforgeeks.org/fundamentals-of-algorithms/), [3 (book)](https://algs4.cs.princeton.edu/home/);
-- [Learn Flexbox with 30 Code Tidbits](https://www.samanthaming.com/flexbox30/);
+- [Learn Flexbox with 30 Code Tidbits](https://www.samanthaming.com/flexbox30/) - бір оқып шықтым. Flexbox қасиеттерін оңай түсіндіретін, тез оқылатын, жеңіл дүние екен;
 - [Scrimba Flexbox Course](https://scrimba.com/learn/flexbox/).
 
 PS. Иә, мен iPhone алдым.
