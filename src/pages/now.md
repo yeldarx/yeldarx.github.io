@@ -12,19 +12,15 @@ title: Қазір ⚡️
 
 - [Podcasting 2.0](https://podcastindex.org/podcast/920666) – Адам Карридің подкастиң туралы подкасты.
 
-- [codingPath additional content](https://coding.podcasting.center/) – жеке блогымдағы [codingPath](/blog/tags/coding-path) тегіне қатысты қосымша мазмұн.
-
-- [Darknet Diaries](https://darknetdiaries.com/) – True stories from the dark side of the Internet.
-
-- [freeCodeCamp podcast](https://freecodecamp.libsyn.com).
+- [Self-taught Devs Podcast](https://podcasts.apple.com/podcast/id1671019533).
 
 ### Қазір қандай кітап оқып жүрмін?
 
-- "Мастерство", Джордж Леонард, 38%.
+- "Мастерство", Джордж Леонард, 41%.
 
 Мен оқитын кітаптардың көбі қазақ тіліне аударылмаған, ал ағылшын тіліндегісін әзірге терең түсінемін деп айта алмаймын. Сондықтан орыс тілінде оқуға тура келеді… бұл уақытша деп білемін.
 
-`Соңғы жаңарту: 11.01.2024`
+`Соңғы жаңарту: 11.02.2024`
 
 ---
 
