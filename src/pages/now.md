@@ -2,26 +2,30 @@
 title: Қазір ⚡️
 ---
 
-### Атқарып жүрген істер
+## Атқарып жүрген істер
 
-1. Осы жылдың Тамыз айынан бастап бағдарламалауды меңгеріп жүрмін. Оқу процесі жайында блогымда [codingPath](/blog/tags/coding-path) тегімен біріктірілген жазбалар жариялап бастадым. Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында (Foundation, 56%) және Coursera-дағы "[English Communication for Tech Professionals](https://www.coursera.org/learn/english-communication-for-tech-professionals/)" деген курсын қараймын.
+1. Осы 2023 жылдың Тамыз айынан бастап бағдарламалауды меңгеріп жүрмін. Оқу процесі жайында блогымда [codingPath](/blog/tags/coding-path) тегімен біріктірілген жазбалар жариялап бастадым. Негізгі оқуым [The Odin Project](https://www.theodinproject.com/) жобасында (Foundation, 56%).
 
-2. [Подкастиң орталығындағы](https://podcasting.center/) жұмыстар. Жақында сайтын жаңартып, айтылған қызметтер туралы жазып қоямын.
+2. [Подкастиң орталығындағы](https://podcasting.center/) жұмыстар.
 
-### Тыңдап жүрген подкастар
+## Тыңдап жүрген подкастар
 
-- [Podcasting 2.0](https://podcastindex.org/podcast/920666) – Адам Карридің подкастиң туралы подкасты.
+- [Podcasting 2.0](https://podcastindex.org/podcast/920666).
 
 - [Self-taught Devs Podcast](https://podcasts.apple.com/podcast/id1671019533).
 
-### Оқып жүрген кітап
+- [Ruby for All](https://www.rubyforall.com/).
 
-- "Мастерство", Джордж Леонард, 41%.
+- [My Ruby Story](https://topenddevs.com/podcasts/my-ruby-story).
 
-Мен оқитын кітаптардың көбі қазақ тіліне аударылмаған, ал ағылшын тіліндегісін әзірге терең түсінемін деп айта алмаймын. Сондықтан орыс тілінде оқуға тура келеді… бұл уақытша деп білемін.
+## Оқып жүрген кітап
 
-`Соңғы жаңарту: 11.02.2024`
+- «Мастерство», Джордж Леонард. 41% оқыдым.
+
+- «Ruby для романтиков», Роман Пушкин. 34% оқыдым. Тегін [ePub, PDF](https://leanpub.com/u/romanpushkin), ақылы [қағаз](https://ozon.kz/product/ruby-dlya-romantikov-samaya-prostaya-kniga-po-yazyku-ruby-s-zadaniyami-pushkin-roman-987253952/).
+
+`Соңғы жаңарту: 24.02.2024`
 
 ---
 
-_[“Now page”](https://nownownow.com/about) туралы._
+_[«Now page»](https://nownownow.com/about) туралы._
