@@ -231,13 +231,83 @@
       </div>
     </main>
 
-    <footer class="footer mt-auto py-3 bg-body-tertiary">
+    <footer class="footer fixed-bottom bg-body-tertiary">
       <div class="container">
-        <span class="text-body-secondary"
-          >&copy; 2024 Yeldar Kudaibergenov
-        </span>
+        <div class="row justify-content-between align-items-center py-2 my-2">
+          <div class="col-md-4 d-flex align-items-center">
+            <span class="mb-2 mb-md-0 text-body-secondary small"
+              >&copy; 2024 Yeldar Kudaibergenov</span
+            >
+          </div>
+
+          <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+            <li class="ms-3">
+              <span
+                id="contactLink"
+                class="text-body-secondary small"
+                style="cursor: pointer"
+                >Contacts</span
+              >
+            </li>
+          </ul>
+        </div>
       </div>
     </footer>
+
+    <div class="modal" id="contactModal">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Contacts</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-md-4">
+                <img
+                  src="/assets/yeldar.png"
+                  alt="Photo Yeldar Kudaibergenov"
+                  width="100"
+                  height="100"
+                />
+              </div>
+              <div class="col-md-8">
+                <ul class="list-unstyled">
+                  <li>
+                    Email: <a href="mailto:mail@yeldar.org">mail@yeldar.org</a>
+                  </li>
+                  <li>
+                    Telegram:
+                    <a href="https://t.me/yeldarx" target="_blank">@yeldarx</a>
+                  </li>
+                  <li>
+                    GitHub:
+                    <a href="https://github.com/yeldarx" target="_blank"
+                      >@yeldarx</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var contactLink = document.getElementById("contactLink");
+      contactLink.addEventListener("click", function () {
+        var contactModal = new bootstrap.Modal(
+          document.getElementById("contactModal")
+        );
+        contactModal.show();
+      });
+    </script>
 
     <script
       src="https://getbootstrap.com/docs/5.3/dist/js/bootstrap.bundle.min.js"
