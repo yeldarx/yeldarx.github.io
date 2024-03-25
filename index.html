@@ -236,7 +236,7 @@
     <footer class="footer fixed-bottom bg-body-tertiary">
       <div class="container">
         <span class="text-body-secondary small">
-          &copy; 2024 Yeldar Kudaibergenov
+          &copy; <span id="currentYear"></span> Yeldar Kudaibergenov
         </span>
         <span class="text-body-secondary small"> • </span>
         <span id="contactLink" class="text-body-secondary small">Contacts</span>
@@ -279,6 +279,13 @@
         </div>
       </div>
     </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var currentYear = new Date().getFullYear();
+        document.getElementById("currentYear").textContent = currentYear;
+      });
+    </script>
 
     <script>
       var contactLink = document.getElementById("contactLink");
