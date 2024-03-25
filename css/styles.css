@@ -79,8 +79,12 @@
 .last-paraghraph {
   margin-bottom: 70px;
 }
-/* 
+
 .modal-li {
-  margin-top: 10px;
-  margin-bottom: 10px;
-} */
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.img-fluid {
+  width: 90px;
+}
